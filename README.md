@@ -75,6 +75,14 @@ Today's temp:
 
 The displayed value changes according to the sensor reading.
 
+## Circuit Diagram
+
+![Digital Thermometer Circuit](circuit-diagram.png)
+
+## Project Output
+
+![Digital Thermometer Output](output.png)
+
 ## Simulation
 
 The project was designed and tested using **Tinkercad Circuits**.
